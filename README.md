@@ -13,7 +13,6 @@ Welcome to the official repository of the **AltitudeX** CanSat project! This rep
 - [Software](#software)  
 - [Installation](#installation)  
 - [Usage](#usage)  
-- [Contributing](#contributing)  
 - [License](#license)  
 
 ---
