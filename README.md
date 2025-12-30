@@ -61,3 +61,7 @@ The CanSat software stack includes:
 - **Firmware:** Runs on the microcontroller for sensor reading, data logging, and telemetry.  
 - **Ground Station:** Python scripts for receiving, logging, and visualizing telemetry.  
 - **Data Analysis:** Scripts for analyzing and plotting mission data.
+---
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
